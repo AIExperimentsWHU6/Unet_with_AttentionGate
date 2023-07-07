@@ -1,0 +1,3 @@
+# Unet_with_AttentionGate
+在上采样处增加了AttentionGate的Unet网络
+这个网络其实训练效果似乎是最好的，但是是建立在调参一下午的前提下的zzzz
